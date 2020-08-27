@@ -2,81 +2,67 @@
 layout: default
 ---
 
+## A network of IT cooperatives
+
+Actors of the Social Economy need IT Tools to realize their missions. From share-management in an energy cooperative over member shift systems in cooperative supermarkets to management tools for shared housing initiatives. Luckily, a variety of IT cooperatives exists that build these tools. 
+
+Inspired by the [ICA principles](https://www.ica.coop/en/cooperatives/cooperative-identity#cooperation-among-cooperatives), some IT cooperatives joined forces to **mutualize resources, share knowledge and build better tools together**.
+
+Come build IT Tools for the Social Economy with us!
+
 ## History
 
-*   Meeting 4 & 5 february 2019 “[ IT & Social Economy Open Space Event](https://gestion.coopiteasy.be/documents)” (Brussels)
-*   Meeting 3 & 4 february 2020 “[Coopdevs & CoopITEasy Gathering](https://docs.google.com/document/d/1Vi8uKbxaH-bBhkafSvwnwlZIsfCFl5_Hk8J1R3T25kI/edit)” (Brussels)
+This idea for this project began when Barcelona-based [Coopdevs](https://coopdevs.org/) took part in the *IT & Social Economy Open Space Event* organized by Brussels-based [Coop IT Easy](http://coopiteasy.be/) on 4 & 5 February 2019. After learning about the various projects they were working on, the idea grew to share tools among clients and collaborate on each other's projects. This was intensified one year later, at a *Food Hackathon* where developers dove into the code together, and where the principles for an inter-cooperation were drafter.
 
-![3 & 4 february 2020 Coopdevs & CoopITEasy Gathering on Brussels](assets/images/brussels2020.JPG)
+## Main actors
 
-## Main actors & Stakeholders
+[CoopITEasy](https://coopiteasy.be/en/) and [Coopdevs](https://coopdevs.org/) are workers cooperatives that offer IT services for actors in the Social Economy, and mostly work with Odoo ERP. They are currently the main promoters of this intercooperation effort, and are hoping to welcome many other actors.
 
-[CoopITEasy](https://coopiteasy.be/en/) & [Coopdevs](https://coopdevs.org/) as  IT workers cooperatives that offer services around Odoo ERP are the main promoters of this intercooperation.
+We've currently established links with a number of organizations:
 
-Other cooperatives, federations, second level alliances, etc. are or can be involved. Examples: 
+* [Grap](http://www.grap.coop/) or 'Groupement Régional Alimentaire de Proximité' is a cooperative working around food provisioning in Lyon, and has a dedicated developper team.
+* [Le Nid](https://lenid.ch/) is a cooperative supermarket in Geneva, with some voluntary developers.
+* [Mycéliandre](https://myceliandre.fr/) in Besançon, France is providing IT support for various projects.
+* ... *Your team or project here?*
 
-*   [Beescoop](http://bees-coop.be/)
-*   [Som Mobilita](https://www.sommobilitat.coop/)t with SOM alliance or with [The Mobility Factory](https://www.themobilityfactory.eu/) 
-*   [GRAP](http://www.grap.coop/le-groupement/)
-*   [FoodCoopBCN](https://foodcoopbcn.cat/) & other Catalan foodcoops
-*   [OFN](https://www.openfoodnetwork.org/)
+## Our Goals
 
-## What and Why?
+* **Develop & maintain a common base of IT Tools** for the main branches of the Social Economy (currently mainly Odoo modules).
+* **Maintain documentation** for the tools we build, making it as easy as possible for others to install and use our tools.
+* **Promote Open Source tools** and support their community.
+* **Improve Cooperativist movement through IT**. We truly believe that the Cooperativism movement can improve our society and take care of our environment.
 
-We want to:
+## In practice
 
-*   Develop & maintain a common base of Odoo modules
-*   Promote Open Source Community around Odoo modules
-*   Create documentation & maintain it in order for other cooperatives to come into the intercooperation and benefit from our previous experiences
+We defined a strategy, set **goals and tasks** and distributed the work - ranging from improving our tools to facilitating the intercooperation. We **meet once a month** to discuss the progress made. Each member dedicates time to **work on the intercooperation projects**.
 
-The main goal of this intercooperation is to share forces to improve Cooperativism movement through IT, specifically with Odoo ERP. We truly believe that the Cooperativism movement can improve our society and take care of our environment.
+In the future we hope to have a common budget for bigger tasks, and explore mutualization of costs between the various actors and ourselves.
 
-With Open Source approach we will differentiate from other initiatives and that will give us a competitive advantage : it will be easier for new FoodCoops to use the solution and contribute with new ideas and energy, we will share the workload for the maintenance, etc.
+## Main projects
 
+* **Cooperative Share Management** through [Easy My Coop](https://github.com/coopiteasy/vertical-cooperative)
+* **Cooperative Supermarket Management** through [Obeesdoo](https://github.com/beescoop/Obeesdoo) - initially developed for the [BEEScoop](https://bees-coop.be/) supermarket.
 
-## How?
+We are considering to add other tools we've been building, in the areas such as short circuit distribution logistics and website sale, cooperative housing, ...
 
-*   Define common goals, tasks, strategy and time milestones
-    *   IT Intercooperation
-    *   Common Odoo projects
-*   Recurrent meeting (checkpoints, annual meeting, …)
-*   Common space available with information about intercooperation
-*   Harmonize the way the coops work with Odoo (code, infrastructure)
-*   Maintain and promote Open Source Community
-    *   Community management
-    *   Code
-    *   Documentation
-    *   Infrastructures
-    *   Best practices
-*   Invest together: time or money in the intercooperation projects
+## Road map & Highlight Topics for 2020
 
-## Management
-
-We must define what people and what tasks they should perform to coordinate all the tasks and people involved in the intercooperation.
-
-We propose 8h a month for a coordination team (1 from CoopITEasy & 1 from Coopdevs) with the tasks:
-
-*   Organize the checkpoint meetings and the annual meeting
-*   Make sure that the tasks are done
-*   Investigate funds for intercooperation
-*   Ensure common space with documentation and all intercooperation information
-*   External communication to the world about our intercooperation
-
-## Roadmap & Highlight Topics for 2020
-
-*   Joint solution for Scale and Point of sale
-*   Cooperative Management : 
-    *   user workflow improvement
-    *   Online payement, SEPA payement (directly instead of by bank transfer)
-    *   Technical onboarding for Coopdev to be able to collaborate and make Easy My Coop Spain-compatible
-    *   API for registration of new members
-    *   Vertical-Cooperative for other user cases
-*   Open Source Community around Odoo modules
-*   Deployment and technical shared competencies
-*   Documentation : 
-    *   Shared documentation on Odoo
-    *   Setup for a FoodCoop in Odoo
+* Set up an intercooperation group: strategy, website, documentation system, ...
+* Move towards a joint solution for Scale and Point of Sale
+* Improve our Cooperative Share Management tool *Easy My Coop*: 
+    * Improve the user work-flow
+    * Improve Online payment and SEPA payment (directly instead of by bank transfer)
+    * Implement an API for registration of new members
+    * Make it Spain-compatible
     
 ## Join us! 
 
-Say hello at [https://community.coopdevs.org/c/it-processes-for-coops](https://community.coopdevs.org/c/it-processes-for-coops)
+Thinking about joining our group? Have a question?
+
+Write us an [email](mailto:info@coopiteasy.be) or say hello on the [Coopdev's forum](https://community.coopdevs.org/c/it-processes-for-coops)
+
+And of course, don't hesitate to directly ask questions through an Issue or submit improvement through Pull Requests!
+
+<p class="aligncenter" style="text-align: center;">
+    <img src="assets/images/brussels2020.JPG" alt="Coopdevs and Coop IT Easy during Food Hackaton in Brussels, february 2020" width="500"/>
+</p>
