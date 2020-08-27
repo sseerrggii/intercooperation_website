@@ -1,37 +1,85 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/coopiteasy/intercooperation_website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# IT intercooperation around Odoo
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## History
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*   Meeting 4 & 5 february 2019 “[ IT & Social Economy Open Space Event](https://gestion.coopiteasy.be/documents)” (Brussels)
+*   Meeting 3 & 4 february 2020 “[Coopdevs & CoopITEasy Gathering](https://docs.google.com/document/d/1Vi8uKbxaH-bBhkafSvwnwlZIsfCFl5_Hk8J1R3T25kI/edit)” (Brussels)
 
-```markdown
-Syntax highlighted code block
+![3 & 4 february 2020 Coopdevs & CoopITEasy Gathering on Brussels](assets/images/brussels2020.JPG)
 
-# Header 1
-## Header 2
-### Header 3
+## Main actors & Stakeholders
 
-- Bulleted
-- List
+[CoopITEasy](https://coopiteasy.be/en/) & [Coopdevs](https://coopdevs.org/) as  IT workers cooperatives that offer services around Odoo ERP are the main promoters of this intercooperation.
 
-1. Numbered
-2. List
+Other cooperatives, federations, second level alliances, etc. are or can be involved. Examples: 
 
-**Bold** and _Italic_ and `Code` text
+*   [Beescoop](http://bees-coop.be/)
+*   [Som Mobilita](https://www.sommobilitat.coop/)t with SOM alliance or with [The Mobility Factory](https://www.themobilityfactory.eu/) 
+*   [GRAP](http://www.grap.coop/le-groupement/)
+*   [FoodCoopBCN](https://foodcoopbcn.cat/) & other Catalan foodcoops
+*   [OFN](https://www.openfoodnetwork.org/)
 
-[Link](url) and ![Image](src)
-```
+## What and Why?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+We want to:
 
-### Jekyll Themes
+*   Develop & maintain a common base of Odoo modules
+*   Promote Open Source Community around Odoo modules
+*   Create documentation & maintain it in order for other cooperatives to come into the intercooperation and benefit from our previous experiences
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/coopiteasy/intercooperation_website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The main goal of this intercooperation is to share forces to improve Cooperativism movement through IT, specifically with Odoo ERP. We truly believe that the Cooperativism movement can improve our society and take care of our environment.
 
-### Support or Contact
+With Open Source approach we will differentiate from other initiatives and that will give us a competitive advantage : it will be easier for new FoodCoops to use the solution and contribute with new ideas and energy, we will share the workload for the maintenance, etc.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## How?
+
+*   Define common goals, tasks, strategy and time milestones
+    *   IT Intercooperation
+    *   Common Odoo projects
+*   Recurrent meeting (checkpoints, annual meeting, …)
+*   Common space available with information about intercooperation
+*   Harmonize the way the coops work with Odoo (code, infrastructure)
+*   Maintain and promote Open Source Community
+    *   Community management
+    *   Code
+    *   Documentation
+    *   Infrastructures
+    *   Best practices
+*   Invest together: time or money in the intercooperation projects
+
+## Management
+
+We must define what people and what tasks they should perform to coordinate all the tasks and people involved in the intercooperation.
+
+We propose 8h a month for a coordination team (1 from CoopITEasy & 1 from Coopdevs) with the tasks:
+
+*   Organize the checkpoint meetings and the annual meeting
+*   Make sure that the tasks are done
+*   Investigate funds for intercooperation
+*   Ensure common space with documentation and all intercooperation information
+*   External communication to the world about our intercooperation
+
+## Roadmap & Highlight Topics for 2020
+
+*   Joint solution for Scale and Point of sale
+*   Cooperative Management : 
+    *   user workflow improvement
+    *   Online payement, SEPA payement (directly instead of by bank transfer)
+    *   Technical onboarding for Coopdev to be able to collaborate and make Easy My Coop Spain-compatible
+    *   API for registration of new members
+    *   Vertical-Cooperative for other user cases
+*   Open Source Community around Odoo modules
+*   Deployment and technical shared competencies
+*   Documentation : 
+    *   Shared documentation on Odoo
+    *   Setup for a FoodCoop in Odoo
+    
+## Join us! 
+
+Say hello at [https://community.coopdevs.org/c/it-processes-for-coops](https://community.coopdevs.org/c/it-processes-for-coops)
