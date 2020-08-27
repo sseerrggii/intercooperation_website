@@ -6,7 +6,7 @@ layout: default
 
 Actors of the Social Economy need IT Tools to realize their missions. From share-management in an energy cooperative over member shift systems in cooperative supermarkets to management tools for shared housing initiatives. Luckily, a variety of IT cooperatives exists that build these tools. 
 
-Inspired by the [ICA principles](https://www.ica.coop/en/cooperatives/cooperative-identity#cooperation-among-cooperatives), some IT cooperatives joined forces to **mutualize resources, share knowledge and build better tools together**.
+Inspired by the [ICA principles](https://www.ica.coop/en/cooperatives/cooperative-identity#cooperation-among-cooperatives), we have joined forces as IT cooperatives to **mutualize resources, share knowledge and build better tools together**. With a bigger network we'll also be able to work on some more complex projects. In all these ways, we hope to empower the actors we are supporting, and help make a change towards a more sustainable world.
 
 Come build IT Tools for the Social Economy with us!
 
@@ -16,7 +16,7 @@ This idea for this project began when Barcelona-based [Coopdevs](https://coopdev
 
 ## Main actors
 
-[CoopITEasy](https://coopiteasy.be/en/) and [Coopdevs](https://coopdevs.org/) are workers cooperatives that offer IT services for actors in the Social Economy, and mostly work with Odoo ERP. They are currently the main promoters of this intercooperation effort, and are hoping to welcome many other actors.
+[CoopITEasy](https://coopiteasy.be/en/) and [Coopdevs](https://coopdevs.org/) are [workers cooperatives](https://en.wikipedia.org/wiki/Worker_cooperative) that offer IT services for actors in the Social Economy, and mostly work with Odoo ERP. They are currently the main promoters of this intercooperation effort, and are hoping to welcome many other actors.
 
 We've currently established links with a number of organizations:
 
