@@ -2,9 +2,6 @@
 layout: default
 ---
 
-# IT intercooperation around Odoo
-
-
 ## History
 
 *   Meeting 4 & 5 february 2019 “[ IT & Social Economy Open Space Event](https://gestion.coopiteasy.be/documents)” (Brussels)
