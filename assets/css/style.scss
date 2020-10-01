@@ -1,0 +1,28 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.main {
+  padding-bottom: 100px;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 10px;
+}
+
+.project {
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: lightgrey;
+  background-color: #f7f7f7;
+  margin: 30px;
+  padding: 10px;
+  font-size: 18px;
+}

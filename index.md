@@ -16,7 +16,7 @@ This idea for this project began when Barcelona-based [Coopdevs](https://coopdev
 
 ## Main actors
 
-[CoopITEasy](https://coopiteasy.be/en/) and [Coopdevs](https://coopdevs.org/) are [workers cooperatives](https://en.wikipedia.org/wiki/Worker_cooperative) that offer IT services for actors in the Social Economy, and mostly work with Odoo ERP. They are currently the main promoters of this intercooperation effort, and are hoping to welcome many other actors.
+[Coop IT Easy](https://coopiteasy.be/en/) and [Coopdevs](https://coopdevs.org/) are [workers cooperatives](https://en.wikipedia.org/wiki/Worker_cooperative) that offer IT services for actors in the Social Economy, and mostly work with Odoo ERP. They are currently the main promoters of this intercooperation effort, and are hoping to welcome many other actors.
 
 We've currently established links with a number of organizations:
 
@@ -40,8 +40,16 @@ In the future we hope to have a common budget for bigger tasks, and explore mutu
 
 ## Main projects
 
-* **Cooperative Share Management** through [Easy My Coop](https://github.com/coopiteasy/vertical-cooperative)
-* **Cooperative Supermarket Management** through [Obeesdoo](https://github.com/beescoop/Obeesdoo) - initially developed for the [BEEScoop](https://bees-coop.be/) supermarket.
+<p class='project'>
+<b>Cooperative Share Management</b> through <a href="https://github.com/coopiteasy/vertical-cooperative">Easy My Coop</a>
+</p>
+
+<p class='project'>
+<b>Cooperative Supermarket Management</b> through <a href="https://github.com/beescoop/Obeesdoo">Obeesdoo</a>
+</p>
+
+<br>
+Obeesdoo was initially developed for the [BEEScoop](https://bees-coop.be/) supermarket.
 
 We are considering to add other tools we've been building, in the areas such as short circuit distribution logistics and website sale, cooperative housing, ...
 
@@ -63,6 +71,19 @@ Write us an [email](mailto:info@coopiteasy.be) or say hello on the [Coopdev's fo
 
 And of course, don't hesitate to directly ask questions through an Issue or submit improvement through Pull Requests!
 
-<p class="aligncenter" style="text-align: center;">
-    <img src="assets/images/brussels2020.JPG" alt="Coopdevs and Coop IT Easy during Food Hackaton in Brussels, february 2020" width="500"/>
-</p>
+<div class="row">
+  <div class="column">
+    <img src="assets/images/postits.jpg" alt="2019 Open Forum">
+  </div>
+  <div class="column">
+    <img src="assets/images/talk.jpg" alt="2019 Open Forum">
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+    <img src="assets/images/food.jpg" alt="2019 Open Forum">
+  </div>
+  <div class="column">
+    <img src="assets/images/discuss.jpg" alt="2020 Food Hackathon">
+  </div>
+</div>

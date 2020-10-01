@@ -317,3 +317,11 @@ a:hover { text-decoration: underline; }
 .site-footer-owner { display: block; font-weight: bold; }
 
 .site-footer-credits { color: #819198; }
+
+.main { padding-bottom: 100px; }
+
+.row { display: flex; }
+
+.column { flex: 33.33%; padding: 10px; }
+
+.project { border-width: 1px; border-style: solid; border-radius: 5px; border-color: lightgrey; background-color: #f7f7f7; margin: 30px; padding: 10px; font-size: 18px; }
