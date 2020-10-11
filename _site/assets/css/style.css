@@ -324,4 +324,6 @@ a:hover { text-decoration: underline; }
 
 .column { flex: 33.33%; padding: 10px; }
 
-.project { border-width: 1px; border-style: solid; border-radius: 5px; border-color: lightgrey; background-color: #f7f7f7; margin: 30px; padding: 10px; font-size: 18px; }
+.project { border-width: 1px; border-style: solid; border-radius: 5px; border-color: lightgrey; background-color: #f7f7f7; margin: 30px; padding: 10px; padding-left: 30px; padding-right: 30px; font-size: 18px; }
+
+.actionbutton { display: inline-block; border-width: 1px; border-style: solid; border-radius: 5px; border-color: #14877cad; background-color: #157878; color: white; margin-left: 30px; padding: 10px; padding-left: 30px; padding-right: 30px; font-size: 18px; }

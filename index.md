@@ -20,6 +20,7 @@ This idea for this project began when Barcelona-based [Coopdevs](https://coopdev
 
 We've currently established links with a number of organizations:
 
+* [Som Mobilitat](https://www.sommobilitat.coop/) is providing e-car sharing services as part of The Mobility Factory.
 * [Grap](http://www.grap.coop/) or 'Groupement Régional Alimentaire de Proximité' is a cooperative working around food provisioning in Lyon, and has a dedicated developper team.
 * [Le Nid](https://lenid.ch/) is a cooperative supermarket in Geneva, with some voluntary developers.
 * [Mycéliandre](https://myceliandre.fr/) in Besançon, France is providing IT support for various projects.
@@ -40,6 +41,8 @@ In the future we hope to have a common budget for bigger tasks, and explore mutu
 
 ## Main projects
 
+The main projets we're currently working on are
+
 <p class='project'>
 <b>Cooperative Share Management</b> through <a href="https://github.com/coopiteasy/vertical-cooperative">Easy My Coop</a>
 </p>
@@ -53,6 +56,10 @@ Obeesdoo was initially developed for the [BEEScoop](https://bees-coop.be/) super
 
 We are considering to add other tools we've been building, in the areas such as short circuit distribution logistics and website sale, cooperative housing, ...
 
+## Shared function documentation
+
+We're working to creat a shared platform for functional documentation on the tools we develop. It's currently under construction [here]({{ site.links.doc }}).
+
 ## Road map & Highlight Topics for 2020
 
 * Set up an intercooperation group: strategy, website, documentation system, ...
@@ -61,13 +68,18 @@ We are considering to add other tools we've been building, in the areas such as 
     * Improve the user work-flow
     * Improve Online payment and SEPA payment (directly instead of by bank transfer)
     * Implement an API for registration of new members
+    * Generalize cooperative supermarket modules
     * Make it Spain-compatible
     
+## On the horizon for 2021
+
+In February 2021 we'll organise our next get together. We plan to exchange views on the long term vision of our tools, share with each other the features we hear and think could benefit the actors we support, and share the work according to the capacity and financial resources at hand. Also, we hope to write some code and documentation together!
+
 ## Join us! 
 
-Thinking about joining our group? Have a question?
+Thinking about joining our group? Have an idea? Have a question? Say hello on the dedicated thread on Coopdev's forum!
 
-Write us an [email](mailto:info@coopiteasy.be) or say hello on the [Coopdev's forum](https://community.coopdevs.org/c/it-processes-for-coops)
+<a href="https://community.coopdevs.org/t/join-us-it-4-social-economy/1122" class="actionbutton">Say hi!</a>
 
 And of course, don't hesitate to directly ask questions through an Issue or submit improvement through Pull Requests!
 
