@@ -16,7 +16,7 @@ This idea for this project began when Barcelona-based [Coopdevs](https://coopdev
 
 ## Main actors
 
-[Coop IT Easy](https://coopiteasy.be/en/) and [Coopdevs](https://coopdevs.org/) are [workers cooperatives](https://en.wikipedia.org/wiki/Worker_cooperative) that offer IT services for actors of the Social Economy They mostly work with Odoo ERP. They are currently the main promoters of this intercooperation effort, and are hoping to welcome many other actors.
+[Coop IT Easy](https://coopiteasy.be/en/) and [Coopdevs](https://coopdevs.org/) are [workers cooperatives](https://en.wikipedia.org/wiki/Worker_cooperative) that offer IT services for actors of the Social Economy. They mostly work with Odoo ERP. They are currently the main promoters of this intercooperation effort, and are hoping to welcome many other actors.
 
 We've currently established links with a number of organizations:
 
@@ -31,7 +31,9 @@ We've currently established links with a number of organizations:
 * **Develop & maintain a common base of IT Tools** for the main branches of the Social Economy (currently mainly Odoo modules).
 * **Maintain documentation** for the tools we build, making it as easy as possible for others to install and use our tools.
 * **Promote Open Source tools** and support their community.
-* **Improve Cooperativist movement through IT**. We truly believe that the Cooperativism movement can improve our society and our environment.  # a bit vague
+* **Improve Cooperation movement through IT**. We believe cooperation can improve our society
+  - through worker emancipation in a democratic organisation,
+  - through the social and/or environmental missions of our cooperatives.  
 
 ## In practice
 
@@ -65,11 +67,11 @@ We're working to creat a shared platform for functional documentation on the too
 * Set up an intercooperation group: strategy, website, documentation system, ...
 * Move towards a joint solution for Scale and Point of Sale
 * Improve our Cooperative Share Management tool *Easy My Coop*: 
-    * Improve the user workflow
-    * Improve Online payment and SEPA payment (directly instead of by bank transfer)  # not very clear 
-    * Implement an API for registration of new members
-    * Generalize cooperative supermarket modules
-    * Make it Spain-compatible
+    * Improve the user workflow,
+    * Improve Online payment and SEPA payment,
+    * Implement an API for registration of new members,
+    * Generalize cooperative supermarket modules,
+    * Make it Spain-compatible.
     
 ## On the horizon for 2021
 
