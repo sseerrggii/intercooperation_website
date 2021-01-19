@@ -2,6 +2,13 @@
 layout: default
 ---
 
+# 2021 IT 4 Social Economy Forum
+**Save the date!!** 
+We will meet online on **April 6th and 7th** from 9:00 to 13:00
+
+<button>[Read more](https://community.coopdevs.org/t/2021-it-4-social-economy-forum/1155)</button>
+
+
 ## A network of IT cooperatives
 
 Actors of the Social Economy need IT Tools to realize their missions. From share-management in an energy cooperative over member shift systems in cooperative supermarkets to management tools for shared housing initiatives. Luckily, a variety of IT cooperatives exists that build these tools. 
