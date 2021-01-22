@@ -2,6 +2,13 @@
 layout: default
 ---
 
+# 2021 IT 4 Social Economy Forum
+**Save the date!!** 
+We will meet online on **April 6th and 7th** from 9:00 to 13:00
+
+<button>[Read more](https://community.coopdevs.org/t/2021-it-4-social-economy-forum/1155)</button>
+
+
 ## A network of IT cooperatives
 
 Actors of the Social Economy need IT Tools to realize their missions. From share-management in an energy cooperative over member shift systems in cooperative supermarkets to management tools for shared housing initiatives. Luckily, a variety of IT cooperatives exists that build these tools. 
@@ -62,20 +69,15 @@ We are considering to add other tools we've been building, in the areas such as 
 
 We're working to creat a shared platform for functional documentation on the tools we develop. It's currently under construction [here]({{ site.links.doc }}).
 
-## Road map & Highlight Topics for 2020
+## Road map & Highlight Topics for 2021
 
 * Set up an intercooperation group: strategy, website, documentation system, ...
 * Move towards a joint solution for Scale and Point of Sale
 * Improve our Cooperative Share Management tool *Easy My Coop*: 
-    * Improve the user workflow,
-    * Improve Online payment and SEPA payment,
-    * Implement an API for registration of new members,
-    * Generalize cooperative supermarket modules,
-    * Make it Spain-compatible.
-    
-## On the horizon for 2021
-
-In February 2021 we'll organise our next get-together. We plan to exchange views on the long term vision of our tools, share with each other the features we hear and think could benefit the actors we support, and share the work according to the capacity and financial resources at hand. Also, we hope to write some code and documentation together!
+    * Improve the user work-flow
+    * Improve Online payment and SEPA payment (directly instead of by bank transfer)
+    * Generalize cooperative supermarket modules
+    * Make it Spain-compatible
 
 ## Join us! 
 
