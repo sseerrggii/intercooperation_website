@@ -13,17 +13,17 @@ We will meet online on **April 6th and 7th** from 9:00 to 13:00
 
 Actors of the Social Economy need IT Tools to realize their missions. From share-management in an energy cooperative over member shift systems in cooperative supermarkets to management tools for shared housing initiatives. Luckily, a variety of IT cooperatives exists that build these tools. 
 
-Inspired by the [ICA principles](https://www.ica.coop/en/cooperatives/cooperative-identity#cooperation-among-cooperatives), we have joined forces as IT cooperatives to **mutualize resources, share knowledge and build better tools together**. With a bigger network we'll also be able to work on some more complex projects. In all these ways, we hope to empower the actors we are supporting, and help make a change towards a more sustainable world.
+Inspired by the [ICA principles](https://www.ica.coop/en/cooperatives/cooperative-identity#cooperation-among-cooperatives), we have joined forces as IT cooperatives to **mutualize resources, share knowledge and build better tools together**. With a bigger network we will also be able to work on more complex projects. In all these ways, we hope to empower the actors we are supporting, and help make a change towards a more sustainable world.
 
 Come build IT Tools for the Social Economy with us!
 
 ## History
 
-This idea for this project began when Barcelona-based [Coopdevs](https://coopdevs.org/) took part in the *IT & Social Economy Open Space Event* organized by Brussels-based [Coop IT Easy](http://coopiteasy.be/) on 4 & 5 February 2019. After learning about the various projects they were working on, the idea grew to share tools among clients and collaborate on each other's projects. This was intensified one year later, at a *Food Hackathon* where developers dove into the code together, and where the principles for an inter-cooperation were drafter.
+This idea for this project began when Barcelona-based [Coopdevs](https://coopdevs.org/) took part in the *IT & Social Economy Open Space Event* organized by Brussels-based [Coop IT Easy](http://coopiteasy.be/) on 4 & 5 February 2019. After learning about the various projects they were working on, the idea grew to share tools among clients and collaborate on each other's projects. This was intensified one year later, at a *Food Hackathon* where developers dove into the code together, and where the principles for an inter-cooperation were drafted.
 
 ## Main actors
 
-[Coop IT Easy](https://coopiteasy.be/en/) and [Coopdevs](https://coopdevs.org/) are [workers cooperatives](https://en.wikipedia.org/wiki/Worker_cooperative) that offer IT services for actors in the Social Economy, and mostly work with Odoo ERP. They are currently the main promoters of this intercooperation effort, and are hoping to welcome many other actors.
+[Coop IT Easy](https://coopiteasy.be/en/) and [Coopdevs](https://coopdevs.org/) are [workers cooperatives](https://en.wikipedia.org/wiki/Worker_cooperative) that offer IT services for actors of the Social Economy. They mostly work with Odoo ERP. They are currently the main promoters of this intercooperation effort, and are hoping to welcome many other actors.
 
 We've currently established links with a number of organizations:
 
@@ -38,7 +38,9 @@ We've currently established links with a number of organizations:
 * **Develop & maintain a common base of IT Tools** for the main branches of the Social Economy (currently mainly Odoo modules).
 * **Maintain documentation** for the tools we build, making it as easy as possible for others to install and use our tools.
 * **Promote Open Source tools** and support their community.
-* **Improve Cooperativist movement through IT**. We truly believe that the Cooperativism movement can improve our society and take care of our environment.
+* **Improve Cooperation movement through IT**. We believe cooperation can improve our society
+  - through worker emancipation in a democratic organisation,
+  - through the social and/or environmental missions of our cooperatives.  
 
 ## In practice
 
@@ -67,14 +69,13 @@ We are considering to add other tools we've been building, in the areas such as 
 
 We're working to creat a shared platform for functional documentation on the tools we develop. It's currently under construction [here]({{ site.links.doc }}).
 
-## Road map & Highlight Topics for 2020
+## Road map & Highlight Topics for 2021
 
 * Set up an intercooperation group: strategy, website, documentation system, ...
 * Move towards a joint solution for Scale and Point of Sale
 * Improve our Cooperative Share Management tool *Easy My Coop*: 
     * Improve the user work-flow
     * Improve Online payment and SEPA payment (directly instead of by bank transfer)
-    * Implement an API for registration of new members
     * Generalize cooperative supermarket modules
     * Make it Spain-compatible
 
